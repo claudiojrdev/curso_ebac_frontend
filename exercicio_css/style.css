@@ -54,7 +54,7 @@ header li a{
 }
 
 section{
-    padding: 16px 0;
+    padding: 24px 0;
 }
 
 section h2,
@@ -93,7 +93,7 @@ section h2,
 }
 
 section h2{
-    font-size: 32px;
+    font-size: 40px;
 }
 
 #sports{
@@ -127,4 +127,12 @@ section h2{
 
 #cinema .articles article a:hover{
     background-color: rgb(236, 43, 43);
+}
+
+#tecnologia .articles article a{
+    background-color: rgb(117, 15, 158);
+}
+
+#tecnologia .articles article a:hover{
+    background-color: rgb(123, 35, 196);
 }
